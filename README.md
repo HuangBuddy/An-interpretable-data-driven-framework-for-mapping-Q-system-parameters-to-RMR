@@ -1,2 +1,2 @@
 # An-interpretable-data-driven-framework-for-mapping-Q-system-parameters-to-RMR
-Code and data for Q–RMR modelling, interpretability analysis, benchmark-function evaluation, and visualization.
+This repository provides the core code and dataset used in the study on Q–RMR modelling. The “Code” folder contains the main scripts used in the manuscript, with the role of each file indicated by its clear and descriptive filename. The dataset, provided as Q-RMR Data.xlsx, consists of 448 consists of 448 Q–RMR samples, including 356 in situ observations and 92 literature-derived case records.
